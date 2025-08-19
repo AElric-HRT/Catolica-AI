@@ -1,6 +1,7 @@
 # 📖 São João Batista - Christian Roaman Catholic chat
 
-![Logo da Paróquia][(https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/83ec433f2_logo.png)]
+![Logo da Paróquia][(83ec433f2_logo(1))](https://github.com/user-attachments/assets/61e5f7d9-4301-4d20-995c-28dd05b7f67b)
+]
 
 ## Sobre o Projeto
 **São João Batista - Christian Roaman Catholic chat** é um aplicativo interativo desenvolvido para a paróquia **São João Batista – Sertãozinho/SP**, com o objetivo de:  
